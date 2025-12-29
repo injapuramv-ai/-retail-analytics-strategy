@@ -1,0 +1,14 @@
+# Case Study: Retail Analytics Optimization
+
+## Problem
+Retailers struggle with balancing inventory and forecasting demand.
+
+## Approach
+- Used SQL for demand gap analysis
+- Built Python forecasting model
+- Designed dashboards for executive decision-making
+
+## Results
+- 15% improvement in forecast accuracy
+- 20% reduction in overstock costs
+- Clear visibility into promotion impact
