@@ -1,0 +1,14 @@
+retail-analytics-strategy/
+│
+├── README.md
+├── data/
+│   └── retail_dataset.csv   # Your uploaded dataset
+├── notebooks/
+│   └── demand_forecasting.ipynb   # Python notebook
+├── sql/
+│   └── demand_gap_analysis.sql
+├── dashboards/
+│   └── powerbi_dashboard.png
+│   └── tableau_dashboard.png
+└── docs/
+    └── case_study.md
